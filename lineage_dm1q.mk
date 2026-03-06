@@ -25,7 +25,7 @@ PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="dm1qxxx-user 15 AP3A.240905.015.A2 S911BXXS8DYI3 release-keys" \
-    BuildFingerprint=samsung/dm1qxxx/dm1q:15/AP3A.240905.015.A2/S911BXXS8DYI3:user/release-keys \
+    BuildDesc="dm1qxxx-user 16 BP2A.250605.031.A3 S911BXXS8EZA1 release-keys" \
+    BuildFingerprint=samsung/dm1qxxx/dm1q:16/BP2A.250605.031.A3/S911BXXS8EZA1:user/release-keys \
     DeviceProduct=dm1q \
     SystemName=dm1qxxx
