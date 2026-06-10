@@ -34,10 +34,6 @@ PRODUCT_PACKAGES += \
     SystemUIResDm1q \
     WifiResTargetDm1q
 
-# Power
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/configs/powerhint.json:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.json
-
 # Touch features
 PRODUCT_PACKAGES += \
     vendor.lineage.touch-service.samsung
