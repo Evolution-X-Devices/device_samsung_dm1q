@@ -299,6 +299,18 @@ vendor/lib64/libsfp_sensor.so
 vendor/lib64/libqfp_sensortest.so
 vendor/lib64/libsfp_teegw.so
 
+# Firmware - from dm1qksx-user 16 BP2A.250605.031.A3 S911NKSS6EZA1 release-keys
+vendor/firmware/a740_zap.b02:vendor/firmware/a740_zap-kor.b02|13677439d51c9e28ad02adf4fde5cd000ab89878
+vendor/firmware/a740_zap.mbn:vendor/firmware/a740_zap-kor.mbn|9746d6b555cdcd7e347ce2a91fef6ea90ce12eef
+vendor/firmware/a740_zap.mdt:vendor/firmware/a740_zap-kor.mdt|a181a436c22b8a3db21d63e4499773e3ad3c1514
+vendor/firmware/CAMERA_ICP.b20:vendor/firmware/CAMERA_ICP-kor.b20|289de2a0472b03ca0156d8acd56840b17422cc62
+vendor/firmware/CAMERA_ICP.mbn:vendor/firmware/CAMERA_ICP-kor.mbn|c11d49a0cd773a2cb6e83b2ddceb47165450ded7
+vendor/firmware/CAMERA_ICP.mdt:vendor/firmware/CAMERA_ICP-kor.mdt|2ccc2b8b3b214da31e6aa669c5d9742740fd99f4
+vendor/firmware/evass.b19:vendor/firmware/evass-kor.b19|9a8bc069543decea23bf85f2f4fe44054f0319d0
+vendor/firmware/evass.mbn:vendor/firmware/evass-kor.mbn|ef12cb7cb97ab51aeef5d6cdcdaae6533c3e7571
+vendor/firmware/evass.mdt:vendor/firmware/evass-kor.mdt|92aeafb8a07f86dd2380fda35f83c647a31086f1
+vendor/firmware/vpu30_4v.mbn:vendor/firmware/vpu30_4v-kor.mbn|805514f84f18ddde53cdee1814a5dd5c33687240
+
 # Firmware - from dm1qzhx-user 16 BP2A.250605.031.A3 S9110ZHS6EZA1 release-keys
 vendor/firmware/a740_zap.b02:odm/firmware/a740_zap.b02|215f1213cfde9544727c88b3c57d733d65885ce0
 vendor/firmware/a740_zap.mbn:odm/firmware/a740_zap.mbn|86aa3e95ac7de80653fc3e7c290e1204af093863
